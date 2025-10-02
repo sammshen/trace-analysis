@@ -1,0 +1,3 @@
+theoretical 57% hit rate on chunks
+10 GB -> 4.9% of theoretical hit rate
+80 GB -> 96.79% of theoretical hit rate
